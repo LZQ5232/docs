@@ -82,9 +82,10 @@ module.exports = {
       clientSecret: '579c8757dfc6ff07f89d5da996eaf685e13b5345',
       autoCreateIssue:true
     },
-    // '@vuepress/pwa': {
-    //   serviceWorker: true,
-    //   updatePopup: true
-    // }
+    '@vuepress/back-to-top': true,
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      updatePopup: true
+    },
   }
 }
