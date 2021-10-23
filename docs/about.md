@@ -8,3 +8,5 @@ tags:
 pageClass: custom-page-class
 ---
 # about
+
+添加travis ci
